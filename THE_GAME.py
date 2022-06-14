@@ -4,7 +4,7 @@ import time
 import random
 pygame.font.init()
 
-WIDTH, HEIGHT = 700, 700
+WIDTH, HEIGHT = 850, 850
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Space Invaders")
 
